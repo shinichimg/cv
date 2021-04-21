@@ -20,8 +20,16 @@ WEB TECHNOLOGIES: Web Services, XML, HTML, XHTML, CSS , Java Script, PHP,  Boots
 WEB SERVICES: JSON, REST
 
 ## Responsibilities:
+- Performed the roles of Salesforce.com Administrator and Developer in the organization.
 
-Environment: Saleforce.com platform, Apex Language, Apex Triggers, Visualforce (Pages, Component & Controllers), Pages, Data Loader, HTML, Java Script, Web Services, Reports, Custom Objects, Custom Tabs, Email Services, Sandbox data loading, Eclipse IDE Plug-in
+- Developed various Custom Objects, Tabs, Visualforce Pages and Controllers.
+
+- Created and deployed Several Reports using salesforce.com platform.
+    
+- Developed APEX Classes, Controller Classes and APEX Triggers for various functional needs in the application.
+
+
+Environment: Saleforce.com platform, Apex Language, Apex Triggers, Visualforce (Pages, Component & Controllers), Pages, Data Loader, HTML, Java Script, Web Services
 
 ## Summary
 
