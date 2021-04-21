@@ -1,6 +1,6 @@
 ## Phan Hoang Viet
 
-* Senior front end developer in `MettaDepth`
+* Senior front end developer in `Metta Depth`
 * Working experience in Vietnam.
 * Email: [phanhoangviet1004@gmail.com](phanhoangviet1004@gmail.com)
 * Phone: [+84916731851](+84916731851)
