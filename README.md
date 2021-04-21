@@ -13,18 +13,31 @@ SALESFORCE TECHNOLOGIES: Apex Classes, Test Classes, SOQL, SOSL, Visual Force, L
 
 SALESFORCE API TOOLS: Eclipse, Apex Explorer, Offline Edition, App Exchange, Data Loader
 
-LANGUAGES: C, C++, Java, PL/SQL, Apex, Ajax, C#
+LANGUAGES:Java, PL/SQL, Apex, Ajax
 
-OPERATING SYSTEMS: Windows NT / 2000 / XP Pro / Vista, Windows Server 2000 / 2003 / 2008 , Macintosh, Linux, Unix
+WEB TECHNOLOGIES: Web Services, XML, HTML, XHTML, CSS , Java Script, PHP,  Bootstrap, JQuery
 
-WEB TECHNOLOGIES: Web Services, XML, HTML, XHTML, CSS Dreamweaver, Java Script, PHP, Servlet, Bootstrap, JQuery, OOD
+WEB SERVICES: JSON, REST
 
-Version Control Tools: CVS, Clear Case, Subversion, VSS
+## Responsibilities:
 
-Web services: SOAP, Cast Iron, WSDL, XML, JSON, REST
+    Performed the roles of Salesforce.com Administrator and Developer in the organization.
+    Developed various Custom Objects, Tabs, Visualforce Pages and Controllers.
+    Administered, configured, maintained Salesforce.com application user profiles, roles, assigning Permissions, generating security tokens, Validation Rule, upgrade installation.
+    Created and deployed Several Reports using salesforce.com platform.
+    Developed APEX Classes, Controller Classes and APEX Triggers for various functional needs in the application.
+    Developed and deployed workflows and approval processes for opportunities and products/ assets management.
+    Involved in Salesforce.com application setup activities and customized the apps to match the functional needs of the organization.
+    Created various Reports (summary reports, matrix reports, pie charts, dashboards and graphics) and Report Folders to assist managers to better utilize Salesforce as a sales tool and configured various Reports for different user profiles based on the organization’s need.
+    Implemented the requirements on Salesforce.com platform and Force.comIDE Plug-in using Eclipse.
+    Assigned workflows for Lead conversion, transfers, merging duplicates, managing web-to-lead to track responses to online campaigns.
+    Involved in Datamappingspecifications to create and execute detailed system test plans. The data mapping specifies what data will be extracted from an internal data warehouse, transformed and sent to an external entity.
+    Developed VF components in mobile apps.
+    Created and used Email templates in HTML and Visualforce.
+    Used the sandbox for testing and migrated the code to the deployment instance after testing.
+    Conducted Administrative duties which included working with c-level executives, system administrators, and end users to gather their business requirements, then develop customized solutions to meet their needs.
 
-Databases : MS SQL Server 7.0, Oracle 10g/9i/8i, MS Access
-
+Environment: Saleforce.com platform, Apex Language, Apex Triggers, Visualforce (Pages, Component & Controllers), Pages, Data Loader, HTML, Java Script, Web Services, Reports, Custom Objects, Custom Tabs, Email Services, Sandbox data loading, Eclipse IDE Plug-in
 
 ## Summary
 
@@ -32,11 +45,6 @@ As a 3 years agile geek in web engineering, with experience in PHP full-stack an
 Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React/Angular rendering theory;
 
 Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaScript integration with Grunt/Gulp, Webpack;
-
-Skilled in Restful, Web Service. Familiar to integration tools as Ansible, Docker;
-
-Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair programming;
-
 
 ## Experience
 
