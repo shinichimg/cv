@@ -41,7 +41,7 @@ Great skills of working in flexible Agile environment, familiar to Scrum, Kanban
 ## Experience
 
 ### **Full Stack Developer, Software Engineer**
-#### MettaDepth `October 2018 - Present`
+#### Metta Depth `October 2018 - Present`
 - [x] I led 3 programmers and coded +5 corporate project using Vlocity + LWC
 - [x] As a major role in developing React & Redux to delivery high performed features and great experience for production;
 - [x] Participate in the front-end architecture work in a new generation app developed by React Native, Redux, React Hook, CodePush, Braintree 
