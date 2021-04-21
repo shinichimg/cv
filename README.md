@@ -22,7 +22,7 @@ WEB SERVICES: JSON, REST
 ## Responsibilities:
 - Performed the roles of Salesforce.com Administrator and Developer in the organization.
 
-- Developed various Custom Objects, Tabs, Visualforce Pages and Controllers.
+-   Administered, configured, maintained Salesforce.com application user profiles, roles, assigning Permissions, generating security tokens, Validation Rule, upgrade installation.
 
 - Created and deployed Several Reports using salesforce.com platform.
     
