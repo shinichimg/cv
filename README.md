@@ -8,6 +8,7 @@
 ## Expertise
 
 * #### Front End
+
   * Vlocity , Lightning Web Component (LWC)
 	* JavaScript, ES6, HTML5, CSS3
 	* React.js, React Native, Redux, AngularJS, NextJs
@@ -17,10 +18,12 @@
 	* Mobile Web
 
 * #### Dev
+
 	* Design Tools,
 	* Git
 	
 * #### Back End
+
   * Apex, NestJs
 	* Node.js, Express, MongoDB, RedisDB, MYSQL, PostgreSQL
 	* Typescript, Golang, PHP, RESTful, Web service
