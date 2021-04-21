@@ -5,28 +5,25 @@
 * Email: [phanhoangviet1004@gmail.com](phanhoangviet1004@gmail.com)
 * Phone: [+84916731851](+84916731851)
 
-## Expertise
+## TECHNICAL SKILLS:
 
-* #### Front End
+CRM TOOLS: Salesforce.com
 
-  	* Vlocity , Lightning Web Component (LWC)
-	* JavaScript, ES6, HTML5, CSS3
-	* React.js, React Native, Redux, AngularJS, NextJs
-	* Bootstrap, SASS, LESS, Responsive
-	* Lodash.js, Ramda.js, Functional
-	* Grunt, Gulp, NPM, Webpack
-	* Mobile Web
+SALESFORCE TECHNOLOGIES: Apex Classes, Test Classes, SOQL, SOSL, Visual Force, Lightning pages (Pages, Component & Controllers), ETL, S-Controls, Triggers, Custom Objects, Web services, Validation Rules, Work Flows, Dashboards, Reports, Sandbox development and Testing
 
-* #### Dev
+SALESFORCE API TOOLS: Eclipse, Apex Explorer, Offline Edition, App Exchange, Data Loader
 
-	* Design Tools,
-	* Git
-	
-* #### Back End
+LANGUAGES: C, C++, Java, PL/SQL, Apex, Ajax, C#
 
-  	* Apex, NestJs
-	* Node.js, Express, MongoDB, RedisDB, MYSQL, PostgreSQL
-	* Typescript, Golang, PHP, RESTful, Web service
+OPERATING SYSTEMS: Windows NT / 2000 / XP Pro / Vista, Windows Server 2000 / 2003 / 2008 , Macintosh, Linux, Unix
+
+WEB TECHNOLOGIES: Web Services, XML, HTML, XHTML, CSS Dreamweaver, Java Script, PHP, Servlet, Bootstrap, JQuery, OOD
+
+Version Control Tools: CVS, Clear Case, Subversion, VSS
+
+Web services: SOAP, Cast Iron, WSDL, XML, JSON, REST
+
+Databases : MS SQL Server 7.0, Oracle 10g/9i/8i, MS Access
 
 
 ## Summary
