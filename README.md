@@ -9,7 +9,7 @@
 
 * #### Front End
 
-  * Vlocity , Lightning Web Component (LWC)
+  	* Vlocity , Lightning Web Component (LWC)
 	* JavaScript, ES6, HTML5, CSS3
 	* React.js, React Native, Redux, AngularJS, NextJs
 	* Bootstrap, SASS, LESS, Responsive
@@ -24,7 +24,7 @@
 	
 * #### Back End
 
-  * Apex, NestJs
+  	* Apex, NestJs
 	* Node.js, Express, MongoDB, RedisDB, MYSQL, PostgreSQL
 	* Typescript, Golang, PHP, RESTful, Web service
 
