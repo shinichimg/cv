@@ -19,6 +19,19 @@ WEB TECHNOLOGIES: Web Services, XML, HTML, XHTML, CSS , Java Script, PHP,  Boots
 
 WEB SERVICES: JSON, REST
 
+## Skills 
+- [x] Good understanding of the CRM processes. Business knowledge of Salescloud. Business knowledge of Quote to Cash (Steelbrick)
+- [x] Proficient in writing clean, solid, readable code
+- [x] Proven ability to deliver high-quality, reliable code implemented on schedule
+- [x] Time management, ability to multitask, and propensity to handle urgent interrupts with poise and professionalism
+- [x] Good knowledge of Javascript, SQL
+- [x] Detailed knowledge of Salesforce.com architecture
+- [x] Capable of writing and debugging efficient SOQL queries of standard and custom objects, and able to understand and develop for complex data models
+- [x] Excellent problem solving and troubleshooting skills, with a solid customer-service orientation
+- [x] Strong verbal and written communication skills including the ability to share ideas both with the business and internal IT teams
+- [x] Ability to maintain a detail oriented approach while multitasking in a fast paced environment
+
+
 ## Responsibilities:
 - Performed the roles of Salesforce.com Administrator and Developer in the organization.
 
@@ -48,6 +61,14 @@ Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaSc
 - [x] Responsible on production app performance. resolved significant webpage optimisation
 - [x] Manage the server for website with NGINX
 
+
+## Salesforce Developer
+- [x] Coding APEX and custom applications for Salesforce instances
+- [x] Design, code, and support solutions to meet business needs in Salesforce, including configurations, customizations and integrations
+- [x] Work with Application Architects and Tech Leads to design integrations between Salesforce.com and other systems across the enterprise
+- [x] Code, configure, unit test and create supporting documentation for application development tasks
+- [x] 2+ years experience developing applications for the Salesforce.com platform
+- [x] Strong working knowledge of APEX (classes and web services), Visual Force, Salesforce APIs, SOQL, Force.com platform
 
 ## Education
 
