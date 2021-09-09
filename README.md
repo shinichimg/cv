@@ -8,15 +8,15 @@
 ## TECHNICAL SKILLS:
 
 CRM TOOLS: Salesforce.com
-	•	UI: HTML5, CSS, Bootstrap and JavaScript 
+- UI: HTML5, CSS, Bootstrap and JavaScript 
 	
-	•	Salesforce Full Stack Developer: Apex Classes, Lightning Web components, Visualforce pages, Triggers, Bulk Programming, Test Classes and SOQL
+- Salesforce Full Stack Developer: Apex Classes, Lightning Web components, Visualforce pages, Triggers, Bulk Programming, Test Classes and SOQL
 	
-	•	Salesforce Administrator:   Workflows, Custom Objects /Fields, Reports and Dashboards, Approval Processes and Community Portal
+- Salesforce Administrator:   Workflows, Custom Objects /Fields, Reports and Dashboards, Approval Processes and Community Portal
 	
-	•	Vlocity components: Vlocity Cards, OmniScripts, DataRaptor Extract/Load/Transform, Integration Procedures, Calculations Matrix, Vlocity Templates, Vlocity Actions, SetValues and HTTP Action
+- Vlocity components: Vlocity Cards, OmniScripts, DataRaptor Extract/Load/Transform, Integration Procedures, Calculations Matrix, Vlocity Templates, Vlocity Actions, SetValues and HTTP Action
 	
-	•	Other languages: Java, C# and PHP
+- Other languages: Java, C# and PHP
 
 ## Skills 
 - [x] Good understanding of the CRM processes. Business knowledge of Salescloud. Business knowledge of Quote to Cash (Steelbrick)
@@ -34,7 +34,7 @@ CRM TOOLS: Salesforce.com
 ## Responsibilities:
 - Performed the roles of Salesforce.com Administrator and Developer in the organization.
 
--   Administered, configured, maintained Salesforce.com application user profiles, roles, assigning Permissions, generating security tokens, Validation Rule, upgrade installation.
+- Administered, configured, maintained Salesforce.com application user profiles, roles, assigning Permissions, generating security tokens, Validation Rule, upgrade installation.
 
 - Created and deployed Several Reports using salesforce.com platform.
     
@@ -44,9 +44,9 @@ CRM TOOLS: Salesforce.com
 Environment: Saleforce.com platform, Apex Language, Apex Triggers, Visualforce (Pages, Component & Controllers), Pages, Data Loader, HTML, Java Script, Web Services
 
 ## Summary
-	•	2+ years as a Salesforce and Fullstack developer
+- 2+ years as a Salesforce and Fullstack developer
 	
-	•	Vlocity and Copado Developer Certified
+- Vlocity and Copado Developer Certified
 
 ## Experience
 
