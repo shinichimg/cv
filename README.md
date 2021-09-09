@@ -9,9 +9,13 @@
 
 CRM TOOLS: Salesforce.com
 	•	UI: HTML5, CSS, Bootstrap and JavaScript 
+	
 	•	Salesforce Full Stack Developer: Apex Classes, Lightning Web components, Visualforce pages, Triggers, Bulk Programming, Test Classes and SOQL
+	
 	•	Salesforce Administrator:   Workflows, Custom Objects /Fields, Reports and Dashboards, Approval Processes and Community Portal
+	
 	•	Vlocity components: Vlocity Cards, OmniScripts, DataRaptor Extract/Load/Transform, Integration Procedures, Calculations Matrix, Vlocity Templates, Vlocity Actions, SetValues and HTTP Action
+	
 	•	Other languages: Java, C# and PHP
 
 ## Skills 
@@ -41,6 +45,7 @@ Environment: Saleforce.com platform, Apex Language, Apex Triggers, Visualforce (
 
 ## Summary
 	•	2+ years as a Salesforce and Fullstack developer
+	
 	•	Vlocity and Copado Developer Certified
 
 ## Experience
