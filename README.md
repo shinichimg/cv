@@ -70,6 +70,22 @@ Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaSc
 - [x] 2+ years experience developing applications for the Salesforce.com platform
 - [x] Strong working knowledge of APEX (classes and web services), Visual Force, Salesforce APIs, SOQL, Force.com platform
 
+## Recent Client Project Experience
+
+- Vlocity Health Insurance
+- Duration: April 2020 to present
+
+Andres is a developer working on a Vlocity Health Insurance project as a Vlocity Developer. On this project he had the chance to work with most of the functionalities related to Vlocity, including Vlocity Omniscripts and Vlocity Cards applied to a variet of business process areas like Enrollment and Quoting. His UI skills were very beneficial to this project since much of the work involved Vlocity Templates. He also integrated standard DocuSign templates with Vlocity DocuSign Signature and Envelope actions, allowing for emailed and on-screen captured signature.  He also collaborated with team members and Vlocity resources to integrate DocuSign Apex classes with Vlocity Document Templates.   
+
+- Industry: TRANSPORT	
+- Duration: 7 Months
+
+Andres was the main developer in a complex project for a transport enterprise in Uruguay. On this project he had the chance to work with a large team, not only from Developers but also directly with the client to understand their requirements. As a result, he had the chance to work with agile methodologies for sprint planning an organization for the project. The technologies that he implemented for the web-app were mainly JavaScript and various Google Maps integrations.  
+
+- Industry: Construction
+- Duration: 5 Months 
+Andres was involved as the main UI developer of an application for tracking personnel hours in a Uruguayan construction company. On this project Andres acquired an extensive knowledge of HTML and CSS which continued to be perfected in the next projects. He also helped lay the ground works for the backend of the program in PHP. 
+
 ## Education
 
 ### University of Hue, Vietnam `2014-2018`
