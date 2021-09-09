@@ -84,6 +84,7 @@ Andres was the main developer in a complex project for a transport enterprise in
 
 - Industry: Construction
 - Duration: 5 Months 
+
 Andres was involved as the main UI developer of an application for tracking personnel hours in a Uruguayan construction company. On this project Andres acquired an extensive knowledge of HTML and CSS which continued to be perfected in the next projects. He also helped lay the ground works for the backend of the program in PHP. 
 
 ## Education
