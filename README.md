@@ -44,7 +44,7 @@ CRM TOOLS: Salesforce.com
 Environment: Saleforce.com platform, Apex Language, Apex Triggers, Visualforce (Pages, Component & Controllers), Pages, Data Loader, HTML, Java Script, Web Services
 
 ## Summary
-- 2+ years as a Salesforce and Fullstack developer
+- 3+ years as a Salesforce and Fullstack developer
 	
 - Vlocity and Copado Developer Certified
 
@@ -52,7 +52,7 @@ Environment: Saleforce.com platform, Apex Language, Apex Triggers, Visualforce (
 
 ### **Full Stack Developer, Software Engineer**
 #### Metta Depth `October 2018 - Present`
-- [x] I led 3 programmers and coded +5 corporate project using Vlocity + LWC
+- [x] I led 3 programmers and coded +7 corporate project using Vlocity + LWC
 - [x] As a major role in developing React & Redux to delivery high performed features and great experience for production;
 - [x] Participate in the front-end architecture work in a new generation app developed by React Native, Redux, React Hook, CodePush, Braintree 
 - [x] Responsible on production app performance. resolved significant webpage optimisation
@@ -84,6 +84,11 @@ Andres was the main developer in a complex project for a transport enterprise in
 
 Andres was involved as the main UI developer of an application for tracking personnel hours in a Uruguayan construction company. On this project Andres acquired an extensive knowledge of HTML and CSS which continued to be perfected in the next projects. He also helped lay the ground works for the backend of the program in PHP. 
 
+## Projects
+
+- NEF-NASA (https://nef.nasa.gov/)
+- GOVT-PS 
+- ROTMAN (https://www.rotman.utoronto.ca/)
 ## Education
 
 ### University of Hue, Vietnam `2014-2018`
