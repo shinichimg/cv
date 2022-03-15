@@ -84,7 +84,7 @@ Viet was the main developer in a complex project for a transport enterprise in U
 
 Viet was involved as the main UI developer of an application for tracking personnel hours in a Uruguayan construction company. On this project Viet acquired an extensive knowledge of HTML and CSS which continued to be perfected in the next projects. He also helped lay the ground works for the backend of the program in PHP. 
 
-## Projects
+## Recent Projects
 
 - NEF-NASA (https://nef.nasa.gov/) 
 - ROTMAN (https://www.rotman.utoronto.ca/)
