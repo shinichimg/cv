@@ -8,11 +8,11 @@
 ## TECHNICAL SKILLS:
 
 CRM TOOLS: Salesforce.com
-- UI: HTML5, CSS, Bootstrap and JavaScript 
+- UI: HTML5, CSS3, Bootstrap, Tailwind , Typescript and JavaScript.
 	
 - Salesforce Full Stack Developer: Apex Classes, Lightning Web components, Visualforce pages, Triggers, Bulk Programming, Test Classes and SOQL
 	
-- Salesforce Administrator:   Workflows, Custom Objects /Fields, Reports and Dashboards, Approval Processes and Community Portal
+- Salesforce Administrator: Workflows, Custom Objects /Fields, Reports and Dashboards, Approval Processes and Community Portal
 	
 - Vlocity components: Vlocity Cards, OmniScripts, DataRaptor Extract/Load/Transform, Integration Procedures, Calculations Matrix, Vlocity Templates, Vlocity Actions, SetValues and HTTP Action
 	
