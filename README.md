@@ -88,7 +88,6 @@ Viet was involved as the main UI developer of an application for tracking person
 
 - NEF-NASA (https://nef.nasa.gov/) 
 - ROTMAN (https://www.rotman.utoronto.ca/)
-- GOVT-PS
 
 ## Education
 
