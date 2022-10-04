@@ -1,4 +1,5 @@
 ## Phan Hoang Viet
+[Viet's Resume.pdf](https://github.com/shinichimg/cv/files/9704274/Viet.s.Resume.pdf)
 
 * Senior Front End Developer - Salesforce Developer in `Metta Depth`
 * Working experience in Vietnam.
