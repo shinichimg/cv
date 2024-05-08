@@ -1,24 +1,31 @@
 ## Phan Hoang Viet
 [Viet's Resume.pdf](https://github.com/shinichimg/cv/files/9704274/Viet.s.Resume.pdf)
 
-* Senior Front End Developer - Salesforce Developer in `Metta Depth`
+* Senior full-stack developer in `Metta Depth`
 * Working experience in Vietnam.
 * Email: [phanhoangviet1004@gmail.com](phanhoangviet1004@gmail.com)
 * Phone: [+84916731851](+84916731851)
 
 ## TECHNICAL SKILLS:
-
-CRM TOOLS: Salesforce.com
-- UI: HTML5, CSS3, Bootstrap, Tailwind , Typescript and JavaScript.
-	
+### Frontend:
+- HTML5, CSS3, Bootstrap, Tailwind
+- JavaScript, TypeScript, React, Redux, React Native, Nextjs, React Expo
+- Salesforce: Apex, Visualforce
 - Salesforce Full Stack Developer: Apex Classes, Lightning Web components, Visualforce pages, Triggers, Bulk Programming, Test Classes and SOQL
-	
 - Salesforce Administrator: Workflows, Custom Objects /Fields, Reports and Dashboards, Approval Processes and Community Portal
-	
 - Vlocity components: Vlocity Cards, OmniScripts, DataRaptor Extract/Load/Transform, Integration Procedures, Calculations Matrix, Vlocity Templates, Vlocity Actions, SetValues and HTTP Action
-	
-- Other languages: Java, C# and PHP
-
+- Other languages: Python, PHP
+  
+### Backend:
+- Node.js, NestJS
+- Databases: MongoDB, Postgres, MySQL
+  
+### Other:
+- Proficient in Python with experience in:
+  - Pandas for data analytics
+  - Web scraping/crawling with Scrapy
+  - NumPy for numerical computing
+    
 ## Skills 
 - [x] Good understanding of the CRM processes. Business knowledge of Salescloud. Business knowledge of Quote to Cash (Steelbrick)
 - [x] Proficient in writing clean, solid, readable code
@@ -31,6 +38,8 @@ CRM TOOLS: Salesforce.com
 - [x] Strong verbal and written communication skills including the ability to share ideas both with the business and internal IT teams
 - [x] Ability to maintain a detail oriented approach while multitasking in a fast paced environment
 
+## Additional Skills
+- Proficient in Python with experience in Pandas for data analytics, web scraping/crawling with Scrapy, and NumPy.
 
 ## Responsibilities:
 - Performed the roles of Salesforce.com Administrator and Developer in the organization.
@@ -45,8 +54,9 @@ CRM TOOLS: Salesforce.com
 Environment: Saleforce.com platform, Apex Language, Apex Triggers, Visualforce (Pages, Component & Controllers), Pages, Data Loader, HTML, Java Script, Web Services
 
 ## Summary
-- 3+ years as a Salesforce and Fullstack developer
-	
+- 2+ years as a Salesforce and Fullstack developer
+- 2+ years as a Python developer
+- 4+ years as a Reactjs/Nextjs/React-Native/Expo  	
 - Vlocity and Copado Developer Certified
 
 ## Experience
