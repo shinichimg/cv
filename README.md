@@ -2,7 +2,7 @@
 [Viet's Resume.pdf](https://github.com/shinichimg/cv/files/9704274/Viet.s.Resume.pdf)
 
 * Senior full-stack developer in `Metta Depth`
-* Working experience in Vietnam.
+* Over 7 years of experience working in Vietnam.
 * Email: [phanhoangviet1004@gmail.com](phanhoangviet1004@gmail.com)
 * Phone: [+84916731851](+84916731851)
 
